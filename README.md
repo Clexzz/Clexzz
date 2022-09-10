@@ -1,5 +1,5 @@
 - 👋 Selamlar ben @Clexzz, 
-- MTA oynar rol yapar eğlenirim.
+- MTA oynamaktayım
 - Son zamanlarda MTA'daki sistemlerin yetersiz
 Olduğunu ve neden benim sistem yapamayacağımı
 düşündüm ve Scripter, Developer olmaya karar 
