@@ -1,5 +1,9 @@
 - 👋 Selamlar ben @Clexzz, 
-- Ben geliştirici (Developer) olmak istiyorum.
-- Sistem yapıp MTA piyasasına katkı sağlamak,
-ve iyi işlere imza atmak istiyorum. 
+- MTA oynar rol yapar eğlenirim.
+- Son zamanlarda MTA'daki sistemlerin yetersiz
+Olduğunu ve neden benim sistem yapamayacağımı
+düşündüm ve Scripter, Developer olmaya karar 
+verdim henüz bir şey bilmesem de zamanla öğrenip
+piyasaya güzel sistemler verebileceğimi düşünüyorum.
+
 
